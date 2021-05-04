@@ -19,7 +19,7 @@
 - [5.4 User Typing event](#ch5-4)
 - [5.5 Custom Hooks - login & chat](#ch5-5)
 
-#### V. [Run the Code](#chapter6)
+#### V. [Run the Code & Demo](#chapter6)
  
 <div id="chapter1" />
 
@@ -123,7 +123,7 @@ SVG - Icons: [fontawesome-icons](https://fontawesome.com/icons?d=gallery&p=2&m=f
 
 Final UI finished:
 
-![image](./chatbox-client-ui.png)
+![image](./docs/two-people-chat.png)
 
 <div id="chapter4" />
 
@@ -393,10 +393,15 @@ Clean code in UI components, here two major use-case:
 
 <div id="chapter6" />
 
-### How to Run the Code?
+### VI. How to Run the Code?
 - sever: `node sever.js`
 	**Note**:  add your own domain URL to **CORS whitelist if needed**
 - client: `npm start`, use the **reminder userInfo** to **login** 
 - **Test**: you need to run two different application on local browser to test 2 users
+
+**Demo:**
+
+![image](./docs/basic-version.gif)
+
 
 Github link [react-ssr-example](https://github.com/jialihan/JavaScript-Onboarding/tree/master/SSR)
