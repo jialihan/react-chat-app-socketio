@@ -32,7 +32,7 @@ After reference to multiple chat app layouts:
 
 Finalized my own chat app:
 
-![image](./chat-app-design-ui.png)
+![image](./docs/chat-app-design-ui.png)
 
 <div id="chapter1" />
 
@@ -107,7 +107,7 @@ socket.on('connection', (arg) => {
 ```
 UI results on client (browser):
 
-![image](./onconnection_socket.png)
+![image](./docs/onconnection_socket.png)
 
 <div id="chapter3" />
 
