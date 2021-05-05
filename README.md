@@ -401,7 +401,7 @@ Clean code in UI components, here two major use-case:
 
 **Demo:**
 
-![image](./docs/basic-version.gif)
+![image](./docs/demo.gif)
 
 
 Github link [react-ssr-example](https://github.com/jialihan/JavaScript-Onboarding/tree/master/SSR)
