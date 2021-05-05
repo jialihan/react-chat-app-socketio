@@ -32,7 +32,7 @@ After reference to multiple chat app layouts:
 
 Finalized my own chat app:
 
-![image](./docs/chat-app-design-ui.png)
+<img src="./docs/chat-app-design-ui.png" width="419" />
 
 <div id="chapter1" />
 
@@ -107,7 +107,7 @@ socket.on('connection', (arg) => {
 ```
 UI results on client (browser):
 
-![image](./docs/onconnection_socket.png)
+<img src="./docs/onconnection_socket.png" width="462" />
 
 <div id="chapter3" />
 
@@ -401,7 +401,6 @@ Clean code in UI components, here two major use-case:
 
 **Demo:**
 
-![image](./docs/demo.gif)
+<img src="./docs/docs.gif" />
 
-
-Github link [react-ssr-example](https://github.com/jialihan/JavaScript-Onboarding/tree/master/SSR)
+**Github link:** [react-chat-app-socketio](https://github.com/jialihan/react-chat-app-socketio/)
