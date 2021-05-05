@@ -404,4 +404,4 @@ Clean code in UI components, here two major use-case:
 <img src="./docs/basic-version.gif" width="592" />
 
 
-**Github link:** [react-ssr-example](https://github.com/jialihan/JavaScript-Onboarding/tree/master/SSR)
+**Github link:** [react-chat-app-socketio](https://github.com/jialihan/react-chat-app-socketio/)
