@@ -1,0 +1,17 @@
+.chat-box{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.chatbox-wrapper{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.chatbox-wrapper h2{
+    color: rgb(224, 77, 101);
+}

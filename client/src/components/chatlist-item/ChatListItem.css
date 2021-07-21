@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+.chatlist-item{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid gray;
+}
+
+.item-avatar{
+    width:50px;
+    height: 50px;
+    padding: 0;
+    margin: 8px;
+    flex: 0 1 auto;
+}
+.item-avatar img {
+    border-radius: 50%;
+}
+
+.item-info{
+    height: 100%;
+    padding: 8px;
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.item-info-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.item-info-header .name{
+    font-size: 24px;
+    font-weight:bold;
+}
+.item-info-header .msg-date{
+    font-size: 14px;
+    color: gray;
+}
+.item-info .footer{
+    color: gray;
+    font-size: 14px;
+}
