@@ -401,6 +401,6 @@ Clean code in UI components, here two major use-case:
 
 **Demo:**
 
-<img src="./docs/docs.gif" />
+<img src="./docs/demo.gif" width="592" />
 
 **Github link:** [react-chat-app-socketio](https://github.com/jialihan/react-chat-app-socketio/)
